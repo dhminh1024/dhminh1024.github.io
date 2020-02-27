@@ -19,11 +19,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   ML4VN stands for Machine Learning for Vietnamese. The blogs are written in Vietnamese, 
   reflecting my learning journey in Machine Learning. 
   I hope this will inspire you to start your own. 
-  - minhdh, HCMC, 02/22/2020
+  - minhdh, HCMC, 02/22/2020``
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: MinhDo87737628
 github_username:  dhminh1024
+
+google_analytics: UA-159134917-1
 
 # Build settings
 markdown: kramdown
@@ -37,7 +39,7 @@ plugins:
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules
+#   - node_modules`
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
